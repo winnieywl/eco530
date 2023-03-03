@@ -3,7 +3,7 @@
 ## **Finding MRS**
 **1. Find the marginal utility of x and y, Ux and Uy, do not plug in numbers yet.**          
 
-$$ U_x = \frac{dU}{dx}$$                        
+$$ \bm {U_x = \frac{dU}{dx}}$$                        
 $$ \bold{ U_y = \frac{dU}{dy} }$$           
 
 * Ux and Uy are derivatives of U with respect to x, y          
